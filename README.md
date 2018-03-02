@@ -1,5 +1,7 @@
 # Rispa Routes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rispa-io/rispa-routes.svg)](https://greenkeeper.io/)
+
 **Rispa** plugin for module configuration.
 
 * [User Guide](https://github.com/rispa-io/rispa-core) – How to develop apps bootstrapped with **Rispa**.
