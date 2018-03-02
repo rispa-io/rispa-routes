@@ -1,7 +1,7 @@
 {
   "name": "@rispa/routes",
   "rispa:name": "react-routes",
-  "version": "4.1.9",
+  "version": "4.2.0",
   "description": "rispa routes",
   "main": "./index.js",
   "devDependencies": {
