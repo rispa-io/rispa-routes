@@ -8,8 +8,8 @@
     "@rispa/eslint-config": ">=3.0.0"
   },
   "dependencies": {
-    "react": "^15.5.4",
-    "react-router-dom": "^4.1.1"
+    "react": "^15.6.2",
+    "react-router-dom": "^4.2.2"
   },
   "scripts": {
     "lint": "rispa-eslint .",
